@@ -1,3 +1,3 @@
 # Estudos Python
 
-Nesse repositório postarei questões para praticar tal linguagem.
+Resolução de questões para o estudo de Python
