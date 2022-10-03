@@ -5,3 +5,5 @@ Em uma hora (60 minutos) o carro Y consegue se distanciar 30 quilômetros do car
 
 Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o carro Y tomar essa distância do outro carro.
 """
+
+v = 0
